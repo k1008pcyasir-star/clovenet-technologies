@@ -39,7 +39,7 @@ export const products = [
     id: "clovenet-hub",
     icon: GraduationCap,
     title: "CloveNet Hub",
-    url: "https://clovenet-hu.netlify.app",
+    url: "https://hubv1.clovenet.net",
     isExternal: true,
     status: "Live",
     description: {
